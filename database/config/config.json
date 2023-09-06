@@ -1,21 +1,21 @@
 {
   "development": {
     "username": "root",
-    "password": "Terydavdpsbho@2000",
+    "password": "T@2000",
     "database": "chemicals",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
     "username": "root",
-    "password": "Terydavdpsbho@2000",
+    "password": "T@2000",
     "database": "chemicals",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "production": {
     "username": "root",
-    "password": "Terydavdpsbho@2000",
+    "password": "T@2000",
     "database": "chemicals",
     "host": "127.0.0.1",
     "dialect": "mysql"
